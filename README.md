@@ -3,7 +3,7 @@ STK Components TLE Propagation w/ Cesium Visualization in disperate containers
 
 > Unofficial STK Components and Cesium Visualization Containers
 
-![Visuals](https://github.com/TrainedTrex/crispy-memory/blob/main/Visuals.PNG)
+![Visuals](https://github.com/TrainedTrex/crispiest-memory/blob/main/Visuals.PNG)
 
 ## Prerequirements ##
 
